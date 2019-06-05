@@ -1,0 +1,12 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "03-Stu_Eslint-Example/Unsolved/package.json",
+        "04-Stu_Project-Starter/Unsolved/package.json",
+        "10-Ins_Mocha-Chai-Example/package.json",
+        "project2-starter-auth/package.json"
+      ]
+    }
+  }
+}
